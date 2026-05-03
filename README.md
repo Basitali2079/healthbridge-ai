@@ -7,7 +7,7 @@
 
 > An open-source AI-powered health intelligence chatbot that enables policy makers, researchers, clinicians, and citizens to explore Australia's healthcare landscape through natural language queries.
 
-![HealthBridge AI Demo](assets/demo-screenshot.png)
+![HealthBridge AI Demo](https://demo-healthbridge-ai.streamlit.app/)
 
 ---
 
